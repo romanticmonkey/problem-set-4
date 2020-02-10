@@ -29,8 +29,11 @@ In this problem set, you are going to predict individual feelings towards egalit
 4. (20 points total) Estimate the following models using all the available predictors (be sure to perform appropriate data pre-processing (e.g., feature standardization) and hyperparameter tuning (e.g. lambda for PCR/PLS, lambda and alpha for elastic net). Also use 10-fold cross-validation for each model to estimate the model's performance using MSE):
     
     a. (5 points) Linear regression
+    
     b. (5 points) Elastic net regression
+    
     c. (5 points) Principal component regression
+    
     d. (5 points) Partial least squares regression
 
 5. (20 points) For each final tuned version of each model fit, evaluate feature importance by generating feature interaction plots. Upon visual presentation, be sure to discuss the substantive results for these models and in comparison to each other (e.g., talk about feature importance, conditional effects, how these are ranked differently across different models, etc.). 
