@@ -27,6 +27,7 @@ In this problem set, you are going to predict individual feelings towards egalit
 #### Egalitarianism and everything
 
 4. (20 points total) Estimate the following models using all the available predictors (be sure to perform appropriate data pre-processing (e.g., feature standardization) and hyperparameter tuning (e.g. lambda for PCR/PLS, lambda and alpha for elastic net). Also use 10-fold cross-validation for each model to estimate the model's performance using MSE):
+    
     a. (5 points) Linear regression
     b. (5 points) Elastic net regression
     c. (5 points) Principal component regression
